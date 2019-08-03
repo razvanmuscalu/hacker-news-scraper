@@ -1,0 +1,108 @@
+<html op="news">
+<head>
+    <meta name="referrer" content="origin">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="news.css?MuKeM06CdUZEJhXRB2Sp">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="rss">
+    <title>Hacker News</title>
+</head>
+<body>
+<center>
+    <table id="hnmain" border="0" cellpadding="0" cellspacing="0" width="85%" bgcolor="#f6f6ef">
+        <tbody>
+        <tr>
+            <td bgcolor="#ff6600">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding:2px">
+                    <tbody>
+                    <tr>
+                        <td style="width:18px;padding-right:4px"><a href="https://news.ycombinator.com"><img src="y18.gif" width="18" height="18" style="border:1px white solid;"></a></td>
+                        <td style="line-height:12pt; height:10px;"><span class="pagetop"><b class="hnname"><a href="news">Hacker News</a></b> <a href="newest">new</a> | <a href="front">past</a> | <a href="newcomments">comments</a> | <a href="ask">ask</a> | <a href="show">show</a> | <a href="jobs">jobs</a> | <a href="submit">submit</a> </span></td>
+                        <td style="text-align:right;padding-right:4px;"><span class="pagetop"> <a href="login?goto=news">login</a> </span></td>
+                    </tr>
+                    </tbody>
+                </table></td>
+        </tr>
+        <tr id="pagespace" title="" style="height:10px"></tr>
+        <tr>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0" class="itemlist">
+                    <tbody>
+                    <tr class="athing" id="20590982">
+                        <td align="right" valign="top" class="title"><span class="rank">1.</span></td>
+                        <td valign="top" class="votelinks">
+                            <center>
+                                <a id="up_20590982" href="vote?id=20590982&amp;how=up&amp;goto=news">
+                                    <div class="votearrow" title="upvote"></div></a>
+                            </center></td>
+                        <td class="title"><a href="https://www.citylab.com/environment/2019/07/urban-tree-canopy-green-space-wellbeing-research/595060/" class="storylink">Living Near Trees, Not Just Green Space, Improves Wellbeing</a><span class="sitebit comhead"> (<a href="from?site=citylab.com"><span class="sitestr">citylab.com</span></a>)</span></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td class="subtext"> <span class="score" id="score_20590982">516 points</span> by <a href="user?id=Osiris30" class="hnuser">Osiris30</a> <span class="age"><a href="item?id=20590982">15 hours ago</a></span> <span id="unv_20590982"></span> | <a href="hide?id=20590982&amp;goto=news">hide</a> | <a href="item?id=20590982">158&nbsp;comments</a> </td>
+                    </tr>
+                    <tr class="spacer" style="height:5px"></tr>
+                    <tr class="athing" id="20598025">
+                        <td align="right" valign="top" class="title"><span class="rank">2.</span></td>
+                        <td valign="top" class="votelinks">
+                            <center>
+                                <a id="up_20598025" href="vote?id=20598025&amp;how=up&amp;goto=news">
+                                    <div class="votearrow" title="upvote"></div></a>
+                            </center></td>
+                        <td class="title"><a href="https://www.nytimes.com/2019/08/02/technology/brex-start-up.html" class="storylink">Bad Times in Tech? Not If You’re a Startup Serving Other Startups</a><span class="sitebit comhead"> (<a href="from?site=nytimes.com"><span class="sitestr">nytimes.com</span></a>)</span></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td class="subtext"> <span class="score" id="score_20598025">92 points</span> by <a href="user?id=SREinSF" class="hnuser">SREinSF</a> <span class="age"><a href="item?id=20598025">8 hours ago</a></span> <span id="unv_20598025"></span> | <a href="hide?id=20598025&amp;goto=news">hide</a> | <a href="item?id=20598025">51&nbsp;comments</a> </td>
+                    </tr>
+                    <tr class="spacer" style="height:5px"></tr>
+                    <tr class="athing" id="20592016">
+                        <td align="right" valign="top" class="title"><span class="rank">3.</span></td>
+                        <td valign="top" class="votelinks">
+                            <center>
+                                <a id="up_20592016" href="vote?id=20592016&amp;how=up&amp;goto=news">
+                                    <div class="votearrow" title="upvote"></div></a>
+                            </center></td>
+                        <td class="title"><a href="https://www.theguardian.com/us-news/2019/aug/02/pentagon-balloons-surveillance-midwest" class="storylink">Pentagon testing mass surveillance balloons across the US</a><span class="sitebit comhead"> (<a href="from?site=theguardian.com"><span class="sitestr">theguardian.com</span></a>)</span></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td class="subtext"> <span class="score" id="score_20592016">312 points</span> by <a href="user?id=incompatible" class="hnuser">incompatible</a> <span class="age"><a href="item?id=20592016">14 hours ago</a></span> <span id="unv_20592016"></span> | <a href="hide?id=20592016&amp;goto=news">hide</a> | <a href="item?id=20592016">168&nbsp;comments</a> </td>
+                    </tr>
+                    <tr class="spacer" style="height:5px"></tr>
+                    <tr class="morespace" style="height:10px"></tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td class="title"><a href="news?p=2" class="morelink" rel="next">More</a></td>
+                    </tr>
+                    </tbody>
+                </table> </td>
+        </tr>
+        <tr>
+            <td><img src="s.gif" height="10" width="0">
+                <table width="100%" cellspacing="0" cellpadding="1">
+                    <tbody>
+                    <tr>
+                        <td bgcolor="#ff6600"></td>
+                    </tr>
+                    </tbody>
+                </table><br>
+                <center>
+                    <a href="https://www.startupschool.org"> Startup School is now on! You can still get in till August&nbsp;4. </a>
+                </center><br>
+                <center>
+                    <span class="yclinks"><a href="newsguidelines.html">Guidelines</a> | <a href="newsfaq.html">FAQ</a> | <a href="mailto:hn@ycombinator.com">Support</a> | <a href="https://github.com/HackerNews/API">API</a> | <a href="security.html">Security</a> | <a href="lists">Lists</a> | <a href="bookmarklet.html" rel="nofollow">Bookmarklet</a> | <a href="http://www.ycombinator.com/legal/">Legal</a> | <a href="http://www.ycombinator.com/apply/">Apply to YC</a> | <a href="mailto:hn@ycombinator.com">Contact</a></span>
+                    <br>
+                    <br>
+                    <form method="get" action="//hn.algolia.com/">
+                        Search:
+                        <input type="text" name="q" value="" size="17" autocorrect="off" spellcheck="false" autocapitalize="off" autocomplete="false">
+                    </form>
+                </center></td>
+        </tr>
+        </tbody>
+    </table>
+</center>
+<script type="text/javascript" src="hn.js?MuKeM06CdUZEJhXRB2Sp"></script>
+</body>
+</html>
